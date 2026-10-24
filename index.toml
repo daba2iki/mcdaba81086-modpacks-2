@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/LevelUp2-1.20.1-1.6.5 (1).jar"
+hash = "4488c9fa2c0a541e0df03e7c68b58873b40b605b4c31dc6b3ac1cf76a125a2e6"
+
+[[files]]
+file = "mods/ZZ.JJThunder_To_The_Max_1.20.1_v0.2.0.jar"
+hash = "bcccc50b319db7c067488aac9e370fb272afa9a212d759f36e10bf486c60b36f"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "d2465361aab788febe2b319413d169a28a7a8de84a7cc1da77e5489884917ea3"
 metafile = true
@@ -93,16 +101,6 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "dfa508b546489c22a8020b08ffbf587e4d795b4e34e571608eead8db445d66cd"
-metafile = true
-
-[[files]]
-file = "mods/jjthunder-to-the-max.pw.toml"
-hash = "446f28d6374394d6fc260b42c894ff268881ccd97861dc24c57e36da9b5a2c1a"
-metafile = true
-
-[[files]]
-file = "mods/levelup-rereloaded.pw.toml"
-hash = "ad6971112caf0dfd620fc9fa8bfe959ec4abc629c68c524d37d627be1299d341"
 metafile = true
 
 [[files]]
