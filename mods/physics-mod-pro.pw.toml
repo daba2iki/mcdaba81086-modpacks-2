@@ -1,8 +1,0 @@
-name = "physics-mod-pro"
-filename = "view"
-side = "both"
-
-[download]
-url = "https://drive.google.com/file/d/1s6pki93Zo7dnr4Jwil0dV8ZpDmgDCKgZ/view?usp=sharing"
-hash-format = "sha256"
-hash = "7f755bdefccb3d39673cffa7d3f52a76b57449e6ec734a536f4f7c0b02d90045"
