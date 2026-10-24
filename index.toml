@@ -1,6 +1,176 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "d2465361aab788febe2b319413d169a28a7a8de84a7cc1da77e5489884917ea3"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-epic-fight-compat.pw.toml"
+hash = "84e506663c1cbc9093a04496772211bdb960bbcd9c4ae5aad95ef3edc620d9eb"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "83696650659994c6facf18e79b7b53877a0df0622d6beeeb7b27bbe75f6bc0b7"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "77f479f765b307ff09a3d0b90719bb3b929d59af193d1ed746dab513fe14f2c5"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "084a056c8eca61bdfcb53d7a9ae05693e27ea856256d783cd7757612df125ee5"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "724ef5d1976e623bccf155159410708893b16fb1f35911ab7911ef6f047552ad"
+metafile = true
+
+[[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "19f7c38afe19474e1cf5ce70e6b7f02fa78923dd5c74c0ec0111f1098b38546f"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e5206ecaa7deacbdb38d292be484bd584bac736d1bed2fb20289020a65a7f132"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "e6362452d4834dc0919f89ea95b7242c3a5c4d61a0ebfc425ecfc6c71dc5afd0"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "ee37dff97699f5d4584ac8f1475c1cfcda7f0b0294dab9a3da042c21026b17a1"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "dfa508b546489c22a8020b08ffbf587e4d795b4e34e571608eead8db445d66cd"
+metafile = true
+
+[[files]]
+file = "mods/jjthunder-to-the-max.pw.toml"
+hash = "446f28d6374394d6fc260b42c894ff268881ccd97861dc24c57e36da9b5a2c1a"
+metafile = true
+
+[[files]]
+file = "mods/levelup-rereloaded.pw.toml"
+hash = "ad6971112caf0dfd620fc9fa8bfe959ec4abc629c68c524d37d627be1299d341"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "769d3a7713ae86b0c4e8a2b3ced5f5ddd1c8cbf1fbe7901e0b75d0bc71841d1e"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-wearable-backpacks.pw.toml"
+hash = "ddd241e285a19430f043389d6c0622aed423432538c9f3d27d864e2de79e86bc"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "762ee3d2dee5355be633bc365829c546800163ec4757f052be665601afe90fba"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/quality-equipment.pw.toml"
+hash = "ef36064378e18acbeb078fae869d5c02aa84385b3eccb40ab2d8f081bd1e0966"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+metafile = true
+
+[[files]]
+file = "mods/rough-tweaks-revamped.pw.toml"
+hash = "ad38eee59896b63efdcc3a2cba8173132a28bdd65a33d96e8e8faf4045bfaccd"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true

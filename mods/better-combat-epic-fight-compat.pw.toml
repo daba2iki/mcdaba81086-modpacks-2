@@ -1,0 +1,13 @@
+name = "Better Combat × Epic Fight Compat"
+filename = "bc_ef_compat-1.0.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a2dd785c4edef7b7eb51c808d14919675263c04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9123867
+project-id = 1645400

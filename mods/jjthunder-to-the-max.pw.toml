@@ -1,0 +1,13 @@
+name = "JJThunder To The Max"
+filename = "ZZ.JJThunder_To_The_Max_1.20.1_v0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d03410fa5ea72161868757cb3e09b60f868a80f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5393334
+project-id = 1002819
