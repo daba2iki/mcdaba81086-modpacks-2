@@ -1,0 +1,13 @@
+name = "Immersive Portals (Forge) With GravityChanger Support"
+filename = "immersive-portals-3.0.8-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38387d9a3ce114338fbd2863ba6d2101c329e6e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8215541
+project-id = 1568645

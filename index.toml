@@ -114,8 +114,18 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/gravity-control.pw.toml"
+hash = "bfe3ee93f07eb10eaf10346f96edbd18d9cde75f60846d823f16b42204a6682f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-forge-with-gravitychanger.pw.toml"
+hash = "4925a290e6b4b1119e75394cedee817463473a6effe95cf229ce5eccef02828b"
 metafile = true
 
 [[files]]
