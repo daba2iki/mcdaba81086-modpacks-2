@@ -124,11 +124,6 @@ hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-forge-with-gravitychanger.pw.toml"
-hash = "4925a290e6b4b1119e75394cedee817463473a6effe95cf229ce5eccef02828b"
-metafile = true
-
-[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "ee37dff97699f5d4584ac8f1475c1cfcda7f0b0294dab9a3da042c21026b17a1"
 metafile = true
