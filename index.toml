@@ -144,6 +144,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/physics-mod-pro.pw.toml"
+hash = "fb3a615edde18b7c8423f8a933b1b8230c8b862b9eb53366ca063c703142a40c"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
